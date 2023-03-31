@@ -1,20 +1,4 @@
-<<<<<<< HEAD
-# flutter_application_1
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
 # Water-Conservation-App
->>>>>>> origin/main
+This is an water conservation app that is using Flutter as the programming language. 
+We found that a lot of people dont know how much water they had been used. Eventually, at the end of the month, the water bill was really expensive and cause people to be frustrated. Besides, dont know how much water they had used will lead to wasting of water. Furthermore, clean water has been always a limited resources. Wasting of water can be really a serious problem as in some place people dont even have clean water to use. Thus this app is to help people to understand the valuable and precious of water.
+For the code, we use simulator either on xcode or on andriod studio to test the app. We use debugging mode to run the app in the simulator.
